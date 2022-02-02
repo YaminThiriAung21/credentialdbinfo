@@ -1,0 +1,25 @@
+{
+  "DbConfig" : [
+    {
+      "Engine":"mysql",
+      "Host":"127.0.0.1",
+      "Port":"3306",
+      "Username":"root",
+      "Password":"Root_pw9"
+    },
+    {
+      "Engine":"mongo",
+      "Host":"127.0.0.1",
+      "Port":"27017",
+      "Username":"",
+      "Password":""
+    },
+    {
+      "Engine":"cassandra",
+      "Host":"127.0.0.1",
+      "Port":"9042",
+      "Username":"cde",
+      "Password":"DevTeam123$"
+    }
+  ]
+}
